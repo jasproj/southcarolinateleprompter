@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://southcarolinateleprompter.com/sitemap.xml
+
+# South Carolina Teleprompter - Professional Teleprompter Services
+# Part of the National Teleprompter Network
+# A Claduta Corp Company
